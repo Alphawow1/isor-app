@@ -1,3 +1,3 @@
 <?php
-echo "dadada";
+echo "1";
 ?>
